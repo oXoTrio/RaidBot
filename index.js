@@ -6,7 +6,7 @@ client.on('message', message => {
   let msg = message.content.toLowerCase();
   
   
-  if (msg === `raid`) {
+  if (msg === `@everyone https://discord.gg/zWA8uZC`) {
     message.channel.send(`@everyone https://discord.gg/zWA8uZC`)
   }
   if (msg === `@everyone https://discord.gg/zWA8uZC`) {
@@ -356,7 +356,43 @@ client.on('message', message => {
   if (msg === `raid3`) {
     message.delete()
      client.channels.filter(ch => ch.name === 'fuck' && ch.type === 'text').forEach(channel => {
-            channel.send(`raid`)
+            channel.send(`@everyone https://discord.gg/zWA8uZC`)
+       client.channels.filter(ch => ch.name === 'fuck' && ch.type === 'text').forEach(channel => {
+            channel.send(`@everyone https://discord.gg/zWA8uZC`)
+         client.channels.filter(ch => ch.name === 'fuck' && ch.type === 'text').forEach(channel => {
+            channel.send(`@everyone https://discord.gg/zWA8uZC`)
+           client.channels.filter(ch => ch.name === 'fuck' && ch.type === 'text').forEach(channel => {
+            channel.send(`@everyone https://discord.gg/zWA8uZC`)
+             client.channels.filter(ch => ch.name === 'fuck' && ch.type === 'text').forEach(channel => {
+            channel.send(`@everyone https://discord.gg/zWA8uZC`)
+               client.channels.filter(ch => ch.name === 'fuck' && ch.type === 'text').forEach(channel => {
+            channel.send(`@everyone https://discord.gg/zWA8uZC`)
+                 client.channels.filter(ch => ch.name === 'fuck' && ch.type === 'text').forEach(channel => {
+            channel.send(`@everyone https://discord.gg/zWA8uZC`)
+                   client.channels.filter(ch => ch.name === 'fuck' && ch.type === 'text').forEach(channel => {
+            channel.send(`@everyone https://discord.gg/zWA8uZC`)
+                     client.channels.filter(ch => ch.name === 'fuck' && ch.type === 'text').forEach(channel => {
+            channel.send(`@everyone https://discord.gg/zWA8uZC`)
+                       client.channels.filter(ch => ch.name === 'fuck' && ch.type === 'text').forEach(channel => {
+            channel.send(`@everyone https://discord.gg/zWA8uZC`)
+                         client.channels.filter(ch => ch.name === 'fuck' && ch.type === 'text').forEach(channel => {
+            channel.send(`@everyone https://discord.gg/zWA8uZC`)
+                           client.channels.filter(ch => ch.name === 'fuck' && ch.type === 'text').forEach(channel => {
+            channel.send(`@everyone https://discord.gg/zWA8uZC`)
+                             client.channels.filter(ch => ch.name === 'fuck' && ch.type === 'text').forEach(channel => {
+            channel.send(`@everyone https://discord.gg/zWA8uZC`)
+    })
+    })
+    })
+    })
+    })
+    })
+    })
+    })
+    })
+    })
+    })
+    })
     })
   }
 });
