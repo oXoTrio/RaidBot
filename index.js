@@ -6,9 +6,9 @@ client.on('message', message => {
   let msg = message.content.toLowerCase();
   
   
-  if (msg === `@everyone https://discord.gg/zWA8uZC`) {
-    message.channel.send(`@everyone https://discord.gg/zWA8uZC`)
-  }
+//   if (msg === `@everyone https://discord.gg/zWA8uZC`) {
+//     message.channel.send(`@everyone https://discord.gg/zWA8uZC`)
+//   }
   if (msg === `@everyone https://discord.gg/zWA8uZC`) {
     message.channel.send(`@everyone https://discord.gg/zWA8uZC`)
   }
