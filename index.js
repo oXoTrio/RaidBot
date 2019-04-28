@@ -7,7 +7,7 @@ const client = new Discord.Client();
 client.on("message", message => {
 
     let msg = message.content.toLowerCase();
-    if (msg.startsWith("/")) {
+    if (msg.startsWith("'")) {
         if (message.author.id !== "533549393073405952") return;
 
         message.delete()
