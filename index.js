@@ -1,7 +1,7 @@
 const Discord = require('discord.js')
 const client = new Discord.Client();
 
-client.on('ready', (guild) => {
+client.on('ready', () => {
 
     console.log(`Running client: ${client.user.tag}!`);
     client.user.setActivity('Advertising for MTS')
